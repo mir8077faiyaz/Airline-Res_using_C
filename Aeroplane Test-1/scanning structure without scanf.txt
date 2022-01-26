@@ -1,0 +1,5 @@
+scanf("%s",list.FirstName)
+canf("%s",list.LastName);
+scanf("%s",list.destination);
+scanf("%s",list.ticketClass);
+scanf("%s",list.ticketQuantity);
